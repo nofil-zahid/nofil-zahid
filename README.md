@@ -4,7 +4,7 @@ Hi 👋 My name is Nofil
 Passionate Developer | Turning Ideas into Reality
 -------------------------------------------------
 
-I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with additional expertise in Java and Flutter. With experience, I excel in building dynamic, user-friendly web applications and efficient backend systems. Currently, I work at DIT GCU, where I develop scalable web solutions, manage relational databases and linux based servers. My recent projects include GCU LMS App, I developed where I work, and DineDynasty as my M.A.D. Semester Project. I am dedicated to continuous learning and staying updated with the latest industry trends. I thrive in collaborative environments and am always eager to connect with fellow professionals and explore new opportunities.
+I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with additional expertise in MySQL. With experience, I excel in building dynamic, user-friendly web applications and efficient backend systems. Currently, I work at DIT GCU, where I develop scalable web solutions, manage databases and servers. My recent projects include GCU LMS App. I am dedicated to continuous learning and staying updated with the latest industry trends. I thrive in collaborative environments and am always eager to connect with fellow professionals and explore new opportunities.
 
 * 🌍  I'm based in Lahore
 * ✉️  You can contact me at [chmnofilzahidofficial85p@gmail.com](mailto:chmnofilzahidofficial85p@gmail.com)
@@ -31,6 +31,10 @@ I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, 
 
 <a href="http://www.github.com/nofil-zahid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nofil-zahid&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/nofil-zahid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nofil-zahid&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<b>Top Repositories</b>
 
-<a href="https://github.com/nofil-zahid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nofil-zahid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div width="100%" align="center"><a href="https://github.com/nofil-zahid/restaurant_management_system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nofil-zahid&repo=restaurant_management_system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nofil-zahid/DATA-STRUCTURES" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nofil-zahid&repo=DATA-STRUCTURES&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/nofil-zahid/DSA-LAB-TASKS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nofil-zahid&repo=DSA-LAB-TASKS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
