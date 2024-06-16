@@ -4,7 +4,7 @@ Hi 👋 My name is Nofil
 Passionate Developer | Turning Ideas into Reality
 -------------------------------------------------
 
-I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with additional expertise in MySQL. With experience, I excel in building dynamic, user-friendly web applications and efficient backend systems. Currently, I work at DIT GCU, where I develop scalable web solutions, manage databases and servers. My recent projects include GCU LMS App. I am dedicated to continuous learning and staying updated with the latest industry trends. I thrive in collaborative environments and am always eager to connect with fellow professionals and explore new opportunities.
+I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with additional expertise in Java and Flutter. With experience, I excel in building dynamic, user-friendly web applications and efficient backend systems. Currently, I work at DIT GCU, where I develop scalable web solutions, manage relational databases and linux based servers. My recent projects include GCU LMS App, I developed where I work, and DineDynasty as my M.A.D. Semester Project. I am dedicated to continuous learning and staying updated with the latest industry trends. I thrive in collaborative environments and am always eager to connect with fellow professionals and explore new opportunities.
 
 * 🌍  I'm based in Lahore
 * ✉️  You can contact me at [chmnofilzahidofficial85p@gmail.com](mailto:chmnofilzahidofficial85p@gmail.com)
