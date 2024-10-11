@@ -64,12 +64,12 @@ I am a passionate Full Stack Developer specializing in the MERN stack (Mysql, Ex
 
 ### TOOLS
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+<!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nofil-zahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=nofil-zahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nofil-zahid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nofil-zahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
