@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me:
-I am a dedicated Full Stack Developer specializing in the MERN stack (MySQL, Express.js, React, Node.js), with expertise in Java and Flutter. Currently, I work at DIT GCU, developing scalable web solutions, managing relational databases, and handling Linux-based servers. Some of my recent projects include the **GCU LMS App** and **DineDynasty**. I'm committed to continuous learning, staying updated with industry trends, and thrive in collaborative environments. Let’s connect and explore new opportunities!
+I am a dedicated Full Stack Developer specializing in the MERN stack (MySQL, Express.js, React, Node.js), with expertise in Java and Flutter. I'm committed to continuous learning, staying updated with industry trends, and thrive in collaborative environments. Let’s connect and explore new opportunities!
 
 ---
 
