@@ -1,16 +1,14 @@
-# Hi 👋, I'm Nofil Zahid
+# Hi, I'm Nofil Zahid 👋
+
 ### Passionate Developer | Turning Ideas into Reality
 
----
-
 ## 💫 About Me:
-I am a dedicated Full Stack Developer specializing in the MERN stack (MySQL, Express.js, React, Node.js), with expertise in Java and Flutter. I'm committed to continuous learning, staying updated with industry trends, and thrive in collaborative environments. Let’s connect and explore new opportunities!
+💻 Full Stack Software Engineer  
+📍 Lahore, Pakistan  
 
----
+I specialize in building **scalable full-stack applications**, **multi-tenant SaaS systems**, and **high-performance web platforms** using modern JavaScript technologies.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nofil-zahid)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/nofil)
+My focus is on **clean architecture, performance, and developer-friendly systems**.
 
 ---
 
