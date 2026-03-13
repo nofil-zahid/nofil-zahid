@@ -10,8 +10,6 @@ I specialize in building **scalable full-stack applications**, **multi-tenant Sa
 
 My focus is on **clean architecture, performance, and developer-friendly systems**.
 
----
-
 ## 💻 Tech Stack
 
 ### **Languages**
@@ -21,8 +19,6 @@ My focus is on **clean architecture, performance, and developer-friendly systems
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Mobile Development**
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
@@ -43,24 +39,14 @@ My focus is on **clean architecture, performance, and developer-friendly systems
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
----
 
-## 🛠️ Tools
+### **Tools**
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nofil-zahid&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
 
 > ⚡ *Made with 💻 by [Nofil Zahid](https://github.com/nofil-zahid)*
 
