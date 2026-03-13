@@ -54,12 +54,6 @@ I am a dedicated Full Stack Developer specializing in the MERN stack (MySQL, Exp
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nofil-zahid&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofil-zahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
